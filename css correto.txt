@@ -117,9 +117,9 @@
 <body>
   <div class="audio-container" id="audioContainer">
     <!-- Cole o link do Seu áudio Abaixo-->
-    <audio class="plyr" src="https://audio.jukehost.co.uk/X1HaMumaiRM1BphUXnRHHBuoz52gp14U"></audio>
+    <audio class="plyr" src="https://s3.fr-par.scw.cloud/typebot/public/typebots/xofdr3kp80jvcu1lthv3e9zt/blocks/tz3xluurjoq5csx9cnue2430?v=1690231054850"></audio>
     <!-- Cole o link da Sua imagem Abaixo-->
-    <img src="https://i.postimg.cc/hG7r9NnG/Untitled-design-2024-03-20-T170116-248.png" alt="Imagem">
+    <img src="https://i.postimg.cc/nhg9sL0x/DR-LAURA-MILLANI.png" alt="Imagem">
     <div class="microphone-icon">
       <i class="fas fa-microphone"></i>
     </div>
